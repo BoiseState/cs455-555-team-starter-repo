@@ -1,2 +1,2 @@
 # generic-starter-group
-Starter repo for group projects
+Starter repo for CS455-555 team projects.
